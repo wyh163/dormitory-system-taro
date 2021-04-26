@@ -1,0 +1,12 @@
+.btn {
+  color: blue;
+}
+
+.img {
+  height: 910rpx;
+}
+
+.test {
+  text-align: center;
+}
+
